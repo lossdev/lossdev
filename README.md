@@ -1,5 +1,5 @@
 </div> 
-  <img width="40%" src="logo-circle.png" alt="logo" align="left">
+  <img width="35%" src="logo-circle.png" alt="logo" align="left">
   <h3 align="left">Hi there 👋, I'm lossdev</h3>
   <p>Some stuff I enjoy:</p>
   <p>👨‍💻 Software Engineering</p>
