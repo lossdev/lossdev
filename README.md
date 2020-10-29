@@ -1,9 +1,16 @@
 <div>
-  <img src="logo-circle-dark.png" alt="logo" width="75" align="left"/>
-  <h3 align="left">Hi there 👋, I'm lossdev</h3>
+  <table>
+    <tr>
+      <td vlign="center">
+        <img src="logo-circle-dark.png" alt="logo" width="75" align="left"/>
+      </td>
+      <td vlign="center">
+        <h3 align="left">Hi there 👋, I'm lossdev</h3>
+      </td>
+    </tr>
+  </table>
 </div>
 <div>
-  <br>
   <br>
 <div>
 <div> 
