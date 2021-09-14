@@ -23,6 +23,7 @@
   <p>🔐 Cybersecurity</p>
   <br>
   <p>🌐 Check out my new portfolio website: https://loss.dev</p>
+  <p>📖 <a href="https://stackoverflow.com/users/story/13758700">StackOverflow</a>
   <p>✉️ Contact me by email <a href="mailto:lossdev@loss.dev">here!</a></p>
   <p>👇 Check out my public repositories below! <a href="mailto:lossdev@loss.dev">Contact me</a> for more information on currently private projects and work not shown here</p>
 </div>
